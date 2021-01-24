@@ -17,7 +17,7 @@
      "String" open_type: navigate
       Number goods_id: 129
      "String" navigator_url: /pages/goods-detail/goods-detail?goods_id=129
-  }
+   }
   }
   {obj} meta{
     "String" msg: 获取成功
